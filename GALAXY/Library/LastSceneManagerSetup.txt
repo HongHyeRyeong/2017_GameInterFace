@@ -1,0 +1,4 @@
+sceneSetups:
+- path: "C:/Users/Administrator/Desktop/\uAC9C\uC778\uC124/\uD569\uCE58\uC7904/Assets/scene/playGame.unity"
+  isLoaded: 1
+  isActive: 1
